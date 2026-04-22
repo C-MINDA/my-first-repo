@@ -1,3 +1,7 @@
 Hello, GitHub!
 Hello, GitHub!
+<<<<<<< HEAD
 Line from main branch.
+=======
+Line from feature branch.
+>>>>>>> feature-branch
